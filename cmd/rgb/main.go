@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/zennon-sml/RGB/cmd/internal/server"
+	"github.com/zennon-sml/RGB/internal/server"
 )
 
 func main() {

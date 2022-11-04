@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/zennon-sml/RGB/cmd/internal/store"
+	"github.com/zennon-sml/RGB/internal/store"
 )
 
 func Signup(ctx *gin.Context) {
